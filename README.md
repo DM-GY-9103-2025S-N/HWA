@@ -1,1 +1,3 @@
 # HWA
+
+Some Python exercises
